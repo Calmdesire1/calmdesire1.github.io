@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.calmdesire1.twa",
+    "sha256_cert_fingerprints": [
+      "83:22:2D:4A:D8:1C:03:6C:6A:B9:29:55:A9:DE:F3:62:93:0B:91:44:58:2F:F8:CF:0D:F5:B2:80:FB:6B:BB:FF"
+    ]
+  }
+}]
